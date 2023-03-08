@@ -1,0 +1,15 @@
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\bin\Debug\net7.0\Task3.8.exe
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\bin\Debug\net7.0\Task3.8.deps.json
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\bin\Debug\net7.0\Task3.8.runtimeconfig.json
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\bin\Debug\net7.0\Task3.8.dll
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\bin\Debug\net7.0\Task3.8.pdb
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.csproj.AssemblyReference.cache
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.AssemblyInfoInputs.cache
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.AssemblyInfo.cs
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.csproj.CoreCompileInputs.cache
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.dll
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\refint\Task3.8.dll
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.pdb
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\Task3.8.genruntimeconfig.cache
+C:\Users\kruch\OneDrive\Рабочий стол\HomeWork8\Task3.8\obj\Debug\net7.0\ref\Task3.8.dll
